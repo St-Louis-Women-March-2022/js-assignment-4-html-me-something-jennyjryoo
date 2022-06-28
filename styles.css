@@ -1,1 +1,75 @@
-/* Write your CSS here! */
+h1 {
+
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 36px;
+}
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#embedVideo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP {
+    font-family: 'Courier New', Courier, monospace
+}
+
+#secret {
+    color: white;
+}
+
+.funParagraph {
+    color: green
+}
+
+main {
+    margin-top: 100px;
+    margin-bottom: 200px;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-family: arial;
+}
+
+body {
+    margin: 8px;
+    display: block;
+}
+
+.maverick {
+    color: brown
+}
+
+.steVe {
+    color: blue
+}
+
+.dragster {
+    color: red
+}
+
+.details {
+    font-size: 20px;
+    font-style: italic;
+}
+
